@@ -4,8 +4,7 @@ My fullname is Abika Chairul Yusri, you can call me "Abika". I'm an Android Deve
 
 ## 💼 Career
 
-Currently working as **Android Developer** at [Binar Academy](https://www.binaracademy.com/). 
-/* Helping Binar Academy to build learning applications that make it easy for users, and several other features. */
+Currently working as **Android Developer** 
 
 ## :computer: Tools
 
